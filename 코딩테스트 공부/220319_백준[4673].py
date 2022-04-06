@@ -2,7 +2,7 @@
 natural_list=set(range(1,10001))
 not_self=set()
 
-
+# 셀프 넘버/실버5
 # 셀프넘버가 아닌 값을 not_self에 추가해주는 함수
 def is_self(num):
     for a in str(num):

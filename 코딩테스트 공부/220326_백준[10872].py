@@ -1,4 +1,4 @@
-# 재귀함수 사용
+# 재귀함수_팩토리얼/브론즈3
 def facto(n):
     if n>1:
         return n*facto(n-1)

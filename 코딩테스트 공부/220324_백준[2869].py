@@ -1,3 +1,5 @@
+# 달팽이는 올라가고 싶다/브론즈1
+
 a,b,v=map(int,input().split())
 loca=(v-a)/(a-b)+1
 print(int(loca)) if loca==int(loca) else print(int(loca)+1)

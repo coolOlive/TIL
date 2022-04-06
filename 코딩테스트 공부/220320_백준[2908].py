@@ -1,6 +1,8 @@
 import sys
 input=sys.stdin.readline
 
+# 상수/브론즈2
+
 a, b=map(str,input().split())
 
 # 문자열 뒤집기

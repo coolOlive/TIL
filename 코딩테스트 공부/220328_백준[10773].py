@@ -1,7 +1,7 @@
 import sys
 input=sys.stdin.readline
 
-# 스택_제로
+# 스택_제로/실버4
 
 k = int(input())
 stack=[]

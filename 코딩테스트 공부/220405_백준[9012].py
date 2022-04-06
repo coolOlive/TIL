@@ -1,7 +1,7 @@
 import sys
 input=sys.stdin.readline
 
-# 스택_괄호
+# 스택_괄호/실버4
 
 t = int(input())
 

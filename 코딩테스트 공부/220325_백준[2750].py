@@ -1,4 +1,4 @@
-# 버블정렬
+# 수 정렬하기/브론즈1 _ 버블정렬
 n=int(input())
 num=[int(input()) for i in range(n)]
 

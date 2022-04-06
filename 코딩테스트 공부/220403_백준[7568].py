@@ -1,7 +1,7 @@
 import sys
 input=sys.stdin.readline
 
-# 브루트 포스_덩치
+# 브루트 포스_덩치/실버5
 
 n=int(input())
 p=[]

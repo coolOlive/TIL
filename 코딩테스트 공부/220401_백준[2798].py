@@ -1,7 +1,7 @@
 import sys
 input=sys.stdin.readline
 
-# 브루트 포스_블랙잭
+# 브루트 포스_블랙잭/브론즈2
 
 n,m=map(int,input().split())
 black=list(map(int,input().split()))
