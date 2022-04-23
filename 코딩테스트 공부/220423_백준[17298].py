@@ -12,5 +12,6 @@ for i in range(n):
     while stack and num[i]>num[stack[-1]]:
         ans[stack.pop()]=num[i]
     stack.append(i)
-        
-print(*ans)
+
+
+print(*ans) 
