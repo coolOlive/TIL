@@ -1,4 +1,4 @@
-# 정렬,투포인터,이분탐색_우 용액/골드5
+# 정렬,투포인터,이분탐색_두 용액/골드5
 
 n=int(input())
 nums=sorted(list(map(int,input().split())))
