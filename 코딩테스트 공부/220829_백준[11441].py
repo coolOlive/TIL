@@ -1,7 +1,7 @@
 import sys
 input=sys.stdin.readline
 
- # 누적합/함 구하기/실버3
+ # 누적합/합 구하기/실버3
 
 n=int(input())
 num=list(map(int,input().split()))
