@@ -2,7 +2,7 @@ from itertools import combinations
 import sys
 input=sys.stdin.readline
 
-# 브루트포스/숫자 게임5/실버5
+# 브루트포스/숫자 게임/실버5
 
 n = int(input())
 answer = []
