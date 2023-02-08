@@ -2,6 +2,7 @@ import sys
 input=sys.stdin.readline
 
 # 브루트포스/리모컨/골드5
+# 골드 문제.. 어렵다
 
 n = int(input())
 m = int(input())
