@@ -9,11 +9,11 @@ students = [list(map(int,input().split())) for _ in range(n)]
 ans, large = 1, 1
 
 for i in range(5):
-  classs = {i:[] for i in range(1,10)}
+  classes = {i:[] for i in range(1,10)}
   for j in range(n):
-    classs[students[j][i]].append(j+1)
+    classes[students[j][i]].append(j+1)
 
-  for cl in classs.values():
+  for cl in classes.values():
     for c in cl:
       boss[c].update(cl)
 
