@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.*;
 
 // dp,그래프이론,그래프탐색/파이프 옮기기 1/골드5
+
 public class Main_17070 {
 	static int n, ans=0,mx,my;
 	static StringTokenizer st;
